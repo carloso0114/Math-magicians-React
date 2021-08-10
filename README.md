@@ -2,11 +2,9 @@
 
 # Math Magicians
 
-> One paragraph statement about the project.
+> In this branch i set up the project with react getting started website.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+<!-- ![screenshot](./app_screenshot.png) -->
 
 ## Built With
 
@@ -65,9 +63,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- React Getting started website
 
 ## 📝 License
 
