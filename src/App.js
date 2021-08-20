@@ -7,7 +7,7 @@ import {
 import './App.css';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
-import Calculator from './components/Calculator';
+import Calculator from './components/calculator';
 import Quote from './pages/Quote';
 
 const App = () => (
@@ -17,9 +17,7 @@ const App = () => (
       <Switch>
         <div>
           <Route path="/calculator">
-
             <Calculator />
-
           </Route>
           <Route path="/quote">
             <Quote />
