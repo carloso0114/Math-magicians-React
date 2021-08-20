@@ -1,6 +1,40 @@
-body {
-  background-color: #282c34;
-  min-height: 100vh;
-  font-size: calc(10px + 2vmin);
-  color: black;
+.navBar {
+  box-shadow: 0 0 10px lightgray;
+}
+
+.navBar * {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.navBar a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.hasNavbar {
+  padding-top: 100px;
+}
+
+.displayFlex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.quoting {
+  font-size: 40px;
+  font-style: italic;
+  text-align: center;
+}
+
+.quoting span {
+  color: #c5c5c5;
+  font-size: 30px;
 }

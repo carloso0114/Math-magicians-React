@@ -15,7 +15,7 @@ const App = () => (
     <Router>
       <Navbar />
       <Switch>
-        <div>
+        <div className="container hasNavbar">
           <Route path="/calculator">
             <Calculator />
           </Route>
