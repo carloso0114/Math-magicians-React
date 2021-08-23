@@ -13,7 +13,8 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Heroku](https://math-magicians-mv.herokuapp.com/)
+[Netlify](https://distracted-hopper-4a283c.netlify.app/)
 
 
 # Getting Started with Create React App
